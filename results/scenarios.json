@@ -1,0 +1,24 @@
+{
+  "hot_reload": {
+    "version": "20261108T133455863695Z",
+    "scorer_container_unchanged": true,
+    "annotation_query_has_data": true
+  },
+  "stopped_stream": {
+    "flow-stopped": "firing",
+    "fraud-high": "inactive"
+  },
+  "stream_recovered": {
+    "flow-stopped": "inactive",
+    "fraud-high": "inactive"
+  },
+  "fraud_stream": {
+    "flow-stopped": "inactive",
+    "fraud-high": "firing"
+  },
+  "fraud_ratio": 0.32269503546099293,
+  "normal_stream_restored": {
+    "flow-stopped": "inactive",
+    "fraud-high": "inactive"
+  }
+}

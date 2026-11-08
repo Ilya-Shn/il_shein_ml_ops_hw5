@@ -1,0 +1,7 @@
+apiVersion: 1
+providers:
+  - name: HW5
+    folder: HW5
+    type: file
+    options:
+      path: /var/lib/grafana/dashboards
